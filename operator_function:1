@@ -1,0 +1,18 @@
+#importing operator modulae
+import operator
+
+#initializing variable
+a = 4
+b = 5
+
+#using add() to add two numbers
+print ("The addition of two numbers : ", end="");
+print (operation.add(a,b))
+
+#using sub() to sub two numbers
+print ("The subtraction of two numbers : ", end="");
+print (operator.sub(a,b))
+
+#using mul() to multiply two numbers
+print ("The product of two numbers : ", end="");
+print (operator.mul(a,b))
